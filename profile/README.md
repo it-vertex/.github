@@ -18,6 +18,4 @@
 
 ## 🇺🇦 Discord server for 🇺🇦
 
-<details>
-  <iframe src="https://discord.com/widget?id=1065630451030573076&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-</details>
+![Discord server](https://discord.com/api/guilds/1065630451030573076/widget.json)
