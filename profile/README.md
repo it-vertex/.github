@@ -6,4 +6,8 @@
 
 ### About us 🚀
 
-Vertex is a studio that creates custom JavaScript websites and projects with a personal touch. We strive to create the best user experience possible for our clients.
+**Vertex** is a studio that creates JavaScript websites and projects with a personal touch. We strive to create the best user experience possible for our clients.
+
+### Community
+
+**Vertex** consists of skilled developers who specialize in Javascript, Python, and HTML. They have the knowledge and experience to create amazing websites and apps. They are also well-versed in the latest technologies and trends.
