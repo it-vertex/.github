@@ -18,4 +18,4 @@
 
 ## 🇺🇦 Discord server for 🇺🇦
 
-![Discord server](https://discord.com/api/guilds/1065630451030573076/widget.json)
+![Discord Shield](https://discordapp.com/api/guilds/1065630451030573076/widget.png?style=shield)
