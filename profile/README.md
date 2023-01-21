@@ -11,3 +11,7 @@
 ## 👨‍💻 Community
 
 **Vertex** consists of skilled developers who specialize in Javascript, Python, and HTML. They have the knowledge and experience to create amazing websites and apps. They are also well-versed in the latest technologies and trends.
+
+## 🔓 Why open-source?
+
+**Vertex** creates project __from people to people__. Open source projects are also beneficial to the community, as they can help spur innovation and creativity.
