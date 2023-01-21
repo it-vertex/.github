@@ -15,7 +15,3 @@
 ## 🔓 Why open-source?
 
 **Vertex** creates project __from people to people__. Open source projects are also beneficial to the community, as they can help spur innovation and creativity.
-
-## 🇺🇦 Discord server for 🇺🇦
-
-![Discord Shield](https://discordapp.com/api/guilds/1065630451030573076/widget.png?style=shield)
